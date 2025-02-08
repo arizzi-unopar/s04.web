@@ -17,13 +17,13 @@ document.getElementById("zodiacForm").addEventListener("submit", async function 
         const resultDiv = document.getElementById("result");
         if (zodiac) {
             resultDiv.innerHTML = `
-                <h2>Your Zodiac Sign: ${zodiac.name}</h2>
+                <h2>Seu signo do zodíaco é: ${zodiac.name}</h2>
                 <p>${zodiac.description}</p>
             `;
         } else {
-            resultDiv.innerHTML = `<p>Unable to determine your zodiac sign.</p>`;
+            resultDiv.innerHTML = `<p>Não é possível determinar seu signo do zodíaco.</p>`;
         }
     } catch (error) {
-        console.error("Error fetching zodiac signs:", error);
+        console.error("Erro ao buscar signos do zodíaco:", error);
     }
 });
