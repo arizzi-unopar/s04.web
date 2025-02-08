@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21-03</dataInicio>
+        <dataFim>20-04</dataFim>
+        <nome>Áries</nome>
+        <descricao>Impulsivo e confiante.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21-04</dataInicio>
+        <dataFim>20-05</dataFim>
+        <nome>Touro</nome>
+        <descricao>Confiável e paciente.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21-05</dataInicio>
+        <dataFim>20-06</dataFim>
+        <nome>Gêmeos</nome>
+        <descricao>Versátil e curioso.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21-06</dataInicio>
+        <dataFim>22-07</dataFim>
+        <nome>Câncer</nome>
+        <descricao>Sensível e protetor.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23-07</dataInicio>
+        <dataFim>22-08</dataFim>
+        <nome>Leão</nome>
+        <descricao>Confiante e carismático.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23-08</dataInicio>
+        <dataFim>22-09</dataFim>
+        <nome>Virgem</nome>
+        <descricao>Analítico e prático.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23-09</dataInicio>
+        <dataFim>22-10</dataFim>
+        <nome>Libra</nome>
+        <descricao>Diplomático e equilibrado.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23-10</dataInicio>
+        <dataFim>21-11</dataFim>
+        <nome>Escorpião</nome>
+        <descricao>Intenso e estratégico.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22-11</dataInicio>
+        <dataFim>21-12</dataFim>
+        <nome>Sagitário</nome>
+        <descricao>Aventureiro e otimista.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22-12</dataInicio>
+        <dataFim>19-01</dataFim>
+        <nome>Capricórnio</nome>
+        <descricao>Determinado e responsável.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20-01</dataInicio>
+        <dataFim>18-02</dataFim>
+        <nome>Aquário</nome>
+        <descricao>Inovador e independente.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19-02</dataInicio>
+        <dataFim>20-03</dataFim>
+        <nome>Peixes</nome>
+        <descricao>Sonhador e empático.</descricao>
+    </signo>
+</signos>
