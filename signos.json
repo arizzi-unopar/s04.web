@@ -1,0 +1,14 @@
+[
+    { "start": "03-21", "end": "04-20", "name": "Aries", "description": "Impulsive and confident." },
+    { "start": "04-21", "end": "05-20", "name": "Taurus", "description": "Reliable and patient." },
+    { "start": "05-21", "end": "06-20", "name": "Gemini", "description": "Versatile and curious." },
+    { "start": "06-21", "end": "07-22", "name": "Cancer", "description": "Sensitive and nurturing." },
+    { "start": "07-23", "end": "08-22", "name": "Leo", "description": "Confident and charismatic." },
+    { "start": "08-23", "end": "09-22", "name": "Virgo", "description": "Analytical and practical." },
+    { "start": "09-23", "end": "10-22", "name": "Libra", "description": "Balanced and diplomatic." },
+    { "start": "10-23", "end": "11-21", "name": "Scorpio", "description": "Passionate and resourceful." },
+    { "start": "11-22", "end": "12-21", "name": "Sagittarius", "description": "Adventurous and optimistic." },
+    { "start": "12-22", "end": "01-19", "name": "Capricorn", "description": "Disciplined and ambitious." },
+    { "start": "01-20", "end": "02-18", "name": "Aquarius", "description": "Innovative and independent." },
+    { "start": "02-19", "end": "03-20", "name": "Pisces", "description": "Empathetic and artistic." }
+]
